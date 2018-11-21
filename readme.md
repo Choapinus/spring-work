@@ -7,4 +7,4 @@
 2.- Run service with docker-compose<br/>
 ```$ docker-compose up -d```
 
-3.- Go to localhost in your browser<br/>
+3.- Go to localhost:8080 in your browser<br/>
