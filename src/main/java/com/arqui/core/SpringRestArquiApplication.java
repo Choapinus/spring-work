@@ -8,5 +8,6 @@ public class SpringRestArquiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringRestArquiApplication.class, args);
+           
 	}
 }
