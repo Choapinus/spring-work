@@ -8,3 +8,10 @@
 ```$ docker-compose up -d```
 
 3.- Go to *localhost:8080/v1/micro-service* in your browser or with Postman paste that url and use the four methods implemented (GET, POST, PUT, DELETE)<br/>
+
+
+integrantes:
+* Cristian Gonzalez
+* Sebastian Santos
+* Felipe Muñoz
+* Andrés Valenzuela
